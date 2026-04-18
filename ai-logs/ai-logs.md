@@ -1,3 +1,5 @@
+Chat link: https://chatgpt.com/share/69e3248d-b72c-8323-ab1c-c57e0fa3918c
+
 I have to build this i am full stack web dev with zero knowlege of react native guide me to complete this task and also code should be of production leveland dont just give code explain it like a teacher 8x Founding Engineer — Take-Home Assignment Thanks for applying. Before we hop on a call, here's a small build task. 
 The Brief 
 Build a creator mobile app — the submission flow. A creator should be able to: 1. See a list of active campaigns — brand, payout per video, deadline 
